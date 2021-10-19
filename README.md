@@ -4,7 +4,6 @@
 
 My Projects 📝
 
-
 🔥 FireSPLOIT - Penetration Testing Framework for Beginners
 🐱‍💻 phishingF1r3 - In development until the end of this year
 
