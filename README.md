@@ -12,7 +12,8 @@ My Projects 📝
 FireSPLOIT is a penetration testing toolkit aimed at making it easy to learn how to use bigger, more complicated frameworks like Metasploit.
 
 💻 win0ne - CLI System Information Tool for Windows Written in Golang
-   phishingF1r3 - instant creation of phishing sites [clones] - [reverse proxy] to obtain login information
+
+🐱‍💻 phishingF1r3 - instant creation of phishing sites [clones] - [reverse proxy] to obtain login information
 
 
 Allows you to display system information through your command line without needing to have any hacky bash fixes to run neofetch.
