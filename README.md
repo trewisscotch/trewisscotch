@@ -32,3 +32,5 @@ EasyModels is an easy way to find and view deep learning projects and pre-traine
 Stars
 
 Pixcryption's goal is to offer a new form of steganography/encryption through imagery. It uses a random seeded UUID to generate a user_key which matches RGB perfect values to match to unicode characters. Uses AES OCB encryption.
+
+<img alt="Eclipse Marketplace badge" src="https://img.shields.io/badge/updated-today-brightgreen"> <img alt="Conda badge" src="https://img.shields.io/badge/platform-linux--64%20%7C%20win--32%20%7C%20osx--64%20%7C%20win--64-lightgrey"> <img alt="Twitter Follow badge" src="https://img.shields.io/badge/Follow-119-lightgrey?logo=twitter&amp;style=social">
