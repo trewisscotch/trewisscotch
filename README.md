@@ -1,10 +1,18 @@
 ### Everyone who followed me - my old channel was hacked. It takes time to restore it. But in the meantime, I'll be friends here.
 
+ <p align="center">
+  <img src="https://caniphish.com/assets/images/hero/Phishing-Hero-Moving.gif" alt="animated" />
+</p>
+
+
+   
 🙌 Hey! I'm Trewis Scotch , a 26 year 👨‍💻 old software developer and QA engineer for "RevilSPLOIT" working out of New York. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
 
 💰 Feeling Generous? Help Support Me 💰
 
 My Projects 📝
+
+💻 PHISHSITE-Evilginx2 - This is a collection of phishing sites I have designed for perfect phishing
 
 🔥 FireSPLOIT - Penetration Testing Framework for Beginners
 
