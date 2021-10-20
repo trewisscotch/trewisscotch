@@ -23,4 +23,4 @@ Allows you to display system information through your command line without needi
 
 🦊 Foxify CLI - Firefox Theme Manager
  
-<img alt="Eclipse Marketplace badge" src="https://img.shields.io/badge/updated-today-brightgreen"> <img alt="Conda badge" src="https://img.shields.io/badge/platform-linux--64%20%7C%20win--32%20%7C%20osx--64%20%7C%20win--64-lightgrey"> <img alt="Twitter Follow badge" src="https://img.shields.io/badge/Follow-119-lightgrey?logo=twitter&amp;style=social">
+<img alt="Eclipse Marketplace badge" src="https://img.shields.io/badge/updated-today-brightgreen"> <img alt="Conda badge" src="https://img.shields.io/badge/platform-linux--64%20%7C%20win--32%20%7C%20osx--64%20%7C%20win--64-lightgrey"> <img alt="Twitter Follow badge" src="https://img.shields.io/badge/Follow-147-lightgrey?logo=twitter&amp;style=social">
