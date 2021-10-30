@@ -1,10 +1,4 @@
 <p align="center">
-Hello dear friends and subscribers. I welcome you to my new page on GITHUB.
- The old page has been hacked but will soon be restored.
-
-</p>
-
-<p align="center">
   <img src="https://caniphish.com/assets/images/hero/Phishing-Hero-Moving.gif" alt="animated" />
 </p>
 
