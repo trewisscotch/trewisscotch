@@ -8,6 +8,8 @@
 
 💰 Feeling Generous? Help Support Me 💰
 
+💻 Refinement and correction of someone else's software in the presence of sources.Making copies of any sites (cheaper than the originals.)
+
 My Projects 📝
 
 💻 PHISHSITE-Evilginx2 - This is a collection of phishing sites I have designed for perfect phishing
