@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://caniphish.com/assets/images/hero/Phishing-Hero-Moving.gif" alt="animated" />
+  <img src="https://github.com/trewisscotch/trewisscotch/blob/main/3.png" alt="animated" />
 </p>
 
 
