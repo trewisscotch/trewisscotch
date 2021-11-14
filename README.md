@@ -1,10 +1,10 @@
-### Hey! I'm Truis Scotch, a 26-year-old software developer and phishing expert from New York.###
+### Hey! I'm Trewis Scotch, a 27-year-old software developer and phishing expert from New York. ###
 
 <p align="center">
   <img src="https://github.com/trewisscotch/trewisscotch/blob/main/3.png" alt="animated" />
 </p>
 
-I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
+### I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here! ###
 
 ## 💼 Skills
 
