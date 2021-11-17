@@ -1,24 +1,30 @@
-### Hey! I'm Trewis Scotch, a 27-year-old software developer and phishing expert from New York. ###
+<h2 align="center">👋 Hey! I'm Trewis Scotch, a 27-year-old software developer and phishing expert from New York. </a> </h2> 
+
+<p align="center">
+   I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
+</p>
 
 <p align="center">
   <img src="https://github.com/trewisscotch/trewisscotch/blob/main/3.png" alt="animated" />
 </p>
 
-### I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here! ###
+<h2 align="center">💼 Skills</h2>
+<p align="center">
 
-## 💼 Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/python%20-%233572A5.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-%23ED1B24.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
+</p>
 
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-
+<h2 align="center">✉️ Contact Me</h2>
+<p align="center">
+  <a href="https://twitter.com/TrewisScotch" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://t.me/HiroSCOTCH" target="_blank"><img src="https://img.shields.io/badge/telegram-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
 
 ## &#x1f4c8; GitHub Stats
 
