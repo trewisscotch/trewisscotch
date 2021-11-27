@@ -8,7 +8,7 @@
   <img src="https://github.com/trewisscotch/trewisscotch/blob/main/3.png" alt="animated" />
 </p>
 
-<h2 align="center">💼 Skills</h2>
+<h2 align="center">💼 SKILLS</h2>
 <p align="center">
 
 <p align="center">
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
 </p>
 
-<h2 align="center">✉️ Contact Me</h2>
+<h2 align="center">✉️ CONTACT ME</h2>
 <p align="center">
   <a href="https://twitter.com/TrewisScotch" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://t.me/HiroSCOTCH" target="_blank"><img src="https://img.shields.io/badge/telegram-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
