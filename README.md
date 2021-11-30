@@ -49,6 +49,8 @@ My Projects 📝
 
 💻 PHISHSITE-Evilginx2 - This is a collection of phishing sites I have designed for perfect phishing
 
+💻 Templates-Modlishka - Collection of cryptocurrency phishing sites
+
 FireSPLOIT is a penetration testing toolkit aimed at making it easy to learn how to use bigger, more complicated frameworks like Metasploit.
 
 💻 wen0ne - CLI System Information Tool for Windows Written in Golang
