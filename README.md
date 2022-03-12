@@ -12,23 +12,25 @@
 <p align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/python%20-%233572A5.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-%23ED1B24.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img src="https://github.com/trewisscotch/trewisscotch/blob/main/img/1.png"height="60"/>
+  <img src="https://github.com/trewisscotch/trewisscotch/blob/main/img/2.png"height="60"/>
+  <img src="https://github.com/trewisscotch/trewisscotch/blob/main/img/9.png"height="60"/>
+  <img src="https://github.com/trewisscotch/trewisscotch/blob/main/img/3.png"height="60"/>
+  <img src="https://github.com/trewisscotch/trewisscotch/blob/main/img/4.png"height="60"/>
+  <img src="https://github.com/trewisscotch/trewisscotch/blob/main/img/5.png"height="60"/>
+  <img src="https://github.com/trewisscotch/trewisscotch/blob/main/img/6.png"height="60"/>
+  <img src="https://github.com/trewisscotch/trewisscotch/blob/main/img/7.png"height="60"/>
 </p>
 
 <h2 align="center"> ## WANT TO LEARN PHISHING? WRITE TO ME - I TAKE TRAINING IN ALL PHISHING METHODS ## </a> </h2> 
 <p align="center">
 </a>
-  <a href="https://t.me/PHISHTEAMACADEMY" target="_blank"><img src="https://img.shields.io/badge/telegram-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/PHISHTEAMACADEMY" target="_blank"><img src="https://img.shields.io/badge/ACADEMY-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 
 
-<h2 align="center">✉️ CONTACT ME</h2>
+<h2 align="center">CONTACT ME</h2>
 <p align="center">
   <a href="https://twitter.com/TrewisScotch" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://t.me/HiroSCOTCH" target="_blank"><img src="https://img.shields.io/badge/telegram-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
