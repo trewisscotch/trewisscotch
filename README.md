@@ -20,7 +20,12 @@
   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
 </p>
 
-<h2 align="center"> ## WANT TO LEARN PHISHING? WRITE TO ME - I TAKE TRAINING IN ALL PHISHING METHODS </a> </h2> 
+<h2 align="center"> ## WANT TO LEARN PHISHING? WRITE TO ME - I TAKE TRAINING IN ALL PHISHING METHODS ## </a> </h2> 
+<p align="center">
+</a>
+  <a href="https://t.me/PHISHTEAMACADEMY" target="_blank"><img src="https://img.shields.io/badge/telegram-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
+
 
 
 <h2 align="center">✉️ CONTACT ME</h2>
