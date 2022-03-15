@@ -8,7 +8,7 @@
   <img src="https://github.com/trewisscotch/trewisscotch/blob/main/1.jpg" alt="animated" />
 </p>
 
-<h2 align="center" SKILLS</h2>
+<h2 align="center"> SKILLS</h2>
 <p align="center">
 
 <p align="center">
