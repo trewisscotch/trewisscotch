@@ -69,4 +69,4 @@ My Projects 📝
 
 Allows you to display system information through your command line without needing to have any hacky bash fixes to run neofetch.
  
-<img alt="Eclipse Marketplace badge" src="https://img.shields.io/badge/updated-today-brightgreen"> <img alt="Conda badge" src="https://img.shields.io/badge/platform-linux--64%20%7C%20win--32%20%7C%20osx--64%20%7C%20win--64-lightgrey"> <img alt="Twitter Follow badge" src="https://img.shields.io/badge/Follow-161-lightgrey?logo=twitter&amp;style=social">
+<img alt="Eclipse Marketplace badge" src="https://img.shields.io/badge/updated-today-brightgreen"> <img alt="Conda badge" src="https://img.shields.io/badge/platform-linux--64%20%7C%20win--32%20%7C%20osx--64%20%7C%20win--64-lightgrey"> <img alt="Twitter Follow badge" src="https://img.shields.io/badge/Follow-1187-lightgrey?logo=twitter&amp;style=social">
