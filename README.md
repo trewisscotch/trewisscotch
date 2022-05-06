@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/trewisscotch/trewisscotch/blob/main/1.jpg" alt="animated" />
+  <img src="https://github.com/trewisscotch/trewisscotch/blob/main/4.png" alt="animated" />
 </p>
 
 <h2 align="center"> SKILLS</h2>
