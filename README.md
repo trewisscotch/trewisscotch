@@ -55,7 +55,7 @@
 
 💰 Feeling Generous? Help Support Me 💰
 
-💻 # FOUNDER OF THE PHISHING ACADEMY - PHISHTEAM
+💻 # FOUNDER OF THE PHISHING ACADEMY -  <a href="https://t.me/PHISHTEAMACADEMY" target="_blank"><img src="https://img.shields.io/badge/ACADEMY-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 My Projects 📝
 
