@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hey! I'm Trewis Scotch, a 27-year-old software developer and phishing expert from New York. </a> </h2> 
 
 <p align="center">
-   I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
+  OUR TEAM SPECIALIZES IN NEW PHISHING TRICKS AND DEVELOPMENT OF SOFTWARE FOR OPERATION. WE ALSO HAVE PROFESSIONAL TRAINING WHERE YOU CAN GET THE LATEST LESSONS IN ALL DIRECTIONS OF PHISHING & HACKING.
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
   <a href="https://t.me/HiroSCOTCH" target="_blank"><img src="https://img.shields.io/badge/telegram-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GITHUB STATS
 
 <br>
 
@@ -51,25 +51,22 @@
 <br>
 <br>
 
+
+
 💰 Feeling Generous? Help Support Me 💰
 
-💻 Refinement and correction of someone else's software in the presence of sources.Making copies of any sites (cheaper than the originals.)
+💻 # FOUNDER OF THE PHISHING ACADEMY - PHISHTEAM
 
 My Projects 📝
 
-💻 PHISHSITE-Evilginx2 - This is a collection of phishing sites I have designed for perfect phishing
+💻 # PHISHSITE-EVILGINX2 - This is a collection of phishing sites I have designed for perfect phishing.
 
-💻 Templates-Modlishka - Collection of cryptocurrency phishing sites
+💻 # TEMPLATES-MODLISHKA - Collection of cryptocurrency phishing sites.
 
-FireSPLOIT is a penetration testing toolkit aimed at making it easy to learn how to use bigger, more complicated frameworks like Metasploit.
+💻 # BINANCE WITHDRAW - Fully automated BINANCE phishing system for quick withdrawal of coins.
 
-💻 wen0ne - CLI System Information Tool for Windows Written in Golang
-
-🐱‍💻 F1r3 - instant creation of phishing sites [clones] - [reverse proxy] to obtain login information
-
+💻 # F1r3 - instant creation of phishing sites [clones] - [reverse proxy] to obtain login information.
 
 Allows you to display system information through your command line without needing to have any hacky bash fixes to run neofetch.
-
-🦊 Foxify CLI - Firefox Theme Manager
  
 <img alt="Eclipse Marketplace badge" src="https://img.shields.io/badge/updated-today-brightgreen"> <img alt="Conda badge" src="https://img.shields.io/badge/platform-linux--64%20%7C%20win--32%20%7C%20osx--64%20%7C%20win--64-lightgrey"> <img alt="Twitter Follow badge" src="https://img.shields.io/badge/Follow-161-lightgrey?logo=twitter&amp;style=social">
