@@ -25,7 +25,7 @@
 <h2 align="center"> ## WANT TO LEARN PHISHING? WRITE TO ME - I TAKE TRAINING IN ALL PHISHING METHODS ## </a> </h2> 
 <p align="center">
 </a>
-  <a href="https://t.me/PHISHTEAMACADEMY" target="_blank"><img src="https://img.shields.io/badge/ACADEMY-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/PHISHTEAMACADEMY" target="_blank"><img src="https://img.shields.io/badge/ACADEMY-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a> <a href="https://phish.team" target="_blank"><img src="https://img.shields.io/badge/PHISHTEAM-SITE-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 
