@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hey! I'm Trewis Scotch, a 27-year-old software developer and phishing expert from New York. </a> </h2> 
+<h2 align="center">PHISH[TEAM]</a> </h2> 
 
 <p align="center">
   OUR TEAM SPECIALIZES IN NEW PHISHING TRICKS AND DEVELOPMENT OF SOFTWARE FOR OPERATION. WE ALSO HAVE PROFESSIONAL TRAINING WHERE YOU CAN GET THE LATEST LESSONS IN ALL DIRECTIONS OF PHISHING & HACKING.
